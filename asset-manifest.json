@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/e-commerce-app/static/css/main.7e6bd335.css",
+    "main.js": "/e-commerce-app/static/js/main.d2ff5930.js",
+    "static/js/453.79967c09.chunk.js": "/e-commerce-app/static/js/453.79967c09.chunk.js",
+    "static/media/4.jpeg": "/e-commerce-app/static/media/4.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/e-commerce-app/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/2.png": "/e-commerce-app/static/media/2.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/e-commerce-app/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/3.jpeg": "/e-commerce-app/static/media/3.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/e-commerce-app/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/e-commerce-app/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/e-commerce-app/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/e-commerce-app/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/e-commerce-app/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/e-commerce-app/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/e-commerce-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/e-commerce-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/e-commerce-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/e-commerce-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/e-commerce-app/index.html",
+    "main.7e6bd335.css.map": "/e-commerce-app/static/css/main.7e6bd335.css.map",
+    "main.d2ff5930.js.map": "/e-commerce-app/static/js/main.d2ff5930.js.map",
+    "453.79967c09.chunk.js.map": "/e-commerce-app/static/js/453.79967c09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6bd335.css",
+    "static/js/main.d2ff5930.js"
+  ]
+}
