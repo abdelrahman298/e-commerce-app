@@ -1,0 +1,19 @@
+.register-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.register-container {
+  width: 100%;
+  padding: 4rem 0;
+}
+
+.register-now {
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+.register-section form button {
+  width: 9rem;
+  height: 3rem;
+}

@@ -1,0 +1,13 @@
+.search-container input {
+  width: 80%;
+  height: 2rem;
+  margin: 3rem 0;
+  border-radius: 9px;
+  border: 1px solid grey;
+  padding: 1.2rem;
+  outline: none;
+}
+
+.product-container .category-name {
+  color: #019b09;
+}

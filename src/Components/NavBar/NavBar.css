@@ -1,0 +1,9 @@
+.nav-main-item .nav-item .nav-link {
+  padding: 0.5rem 0.3rem !important;
+  font-size: 0.9rem;
+  margin-right: 0.9rem;
+}
+
+.badge {
+  font-size: 0.8rem !important;
+}

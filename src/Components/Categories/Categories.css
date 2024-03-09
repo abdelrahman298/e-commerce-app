@@ -1,0 +1,10 @@
+.cat-img img {
+  width: 23rem;
+  height: 30rem;
+}
+
+.category-item {
+  padding: 1.3rem;
+  border: 2px solid #03f003;
+  border-radius: 10px;
+}
